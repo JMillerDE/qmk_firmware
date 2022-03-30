@@ -1,4 +1,4 @@
-/* Copyright 2022 @ Firehawk84 (https://github.com/Firehawk84/qmk_firmware)
+/* Copyright 2022 @ Jeremy MIller (https://github.com/jmillerde/qmk_firmware)
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by

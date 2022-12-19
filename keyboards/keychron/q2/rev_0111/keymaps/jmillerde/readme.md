@@ -10,9 +10,9 @@ The key mapping is based on my needs and preferances.
 - Caps Lock RGB indicator
     - the Caps Lock key will light when Caps Lock is enabled with the following options:
         - #define CAPS_LOCK_INDICATOR_COLOR [color] in config.h to set the backlight color used for the indicator when Caps Lock is enabled (default: RGB_PINK)
-        - Fn+Rctl+I will toggle lighting the TAB key when Caps Lock is enabled. This is useful with non backlit keycaps/legends.            (default: off)
-        - Fn+Rctl+O will toggle lighting all the alpha keys when Caps Lock is enabled.                                                      (default: off)
-		- Fn+Rctl+P will toggle lighting on home home row when Caps Lock is enabled (caps, a, s, d, f, g, h, j, k, l, ;, ', enter).         (default: on)
+        - Fn+Rctl+U will toggle lighting the TAB key when Caps Lock is enabled. This is useful with non backlit keycaps/legends.            (default: off)
+        - Fn+Rctl+I will toggle lighting all the alpha keys when Caps Lock is enabled.                                                      (default: off)
+		- Fn+Rctl+O will toggle lighting on home home row when Caps Lock is enabled (caps, a, s, d, f, g, h, j, k, l, ;, ', enter).         (default: on)
 
 - Dynamic Fn layer RGB indicator
     - When the Fn key is held down, any keys defined on the Fn layer in this firmware or in VIA will be highlighted with the following options:
